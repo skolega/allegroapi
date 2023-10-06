@@ -16,13 +16,15 @@
         "symfony/dependency-injection": "^5.4",
         "symfony/http-kernel": "^5.4",
         "symfony/routing": "^5.4",
-        "skolega/allegroapibase": "*",
         "doctrine/doctrine-bundle": "^2.4",
         "doctrine/orm": "^2.6",
         "sensio/framework-extra-bundle": "^6.2",
         "symfony/framework-bundle": "^5.4",
         "symfony/event-dispatcher-contracts": "v2.5.2"
     },
+	"require-dev": {
+		"skolega/allegroapibase": "*",
+	}
     "autoload": {
         "psr-4": {
             "Imper86\\AllegroApiBundle\\": "src"
