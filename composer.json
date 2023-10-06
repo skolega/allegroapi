@@ -24,7 +24,7 @@
     },
 	"require-dev": {
 		"skolega/allegroapibase": "*"
-	}
+	},
     "autoload": {
         "psr-4": {
             "Imper86\\AllegroApiBundle\\": "src"
