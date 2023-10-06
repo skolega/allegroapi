@@ -1,5 +1,5 @@
 {
-    "name": "allegroapi",
+    "name": "skolega/allegroapi",
     "description": "Allegro rest/soap api symfony bundle",
     "type": "symfony-bundle",
     "license": "MIT",
