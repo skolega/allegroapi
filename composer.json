@@ -23,7 +23,7 @@
         "symfony/event-dispatcher-contracts": "v2.5.2"
     },
 	"require-dev": {
-		"skolega/allegroapibase": "*",
+		"skolega/allegroapibase": "*"
 	}
     "autoload": {
         "psr-4": {
