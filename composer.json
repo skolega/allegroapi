@@ -16,7 +16,7 @@
         "symfony/dependency-injection": "^5.4",
         "symfony/http-kernel": "^5.4",
         "symfony/routing": "^5.4",
-        "imper86/allegroapi": "^6.1.0",
+        "skolega/allegroapibase": *,
         "doctrine/doctrine-bundle": "^2.4",
         "doctrine/orm": "^2.6",
         "sensio/framework-extra-bundle": "^6.2",
